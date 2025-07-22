@@ -1,0 +1,6 @@
+Kathmandu, North, 4, 50000, Available
+Pokhara  , East , 5, 60000, Available
+Lalitpur , South,10,100000, Available
+Karnali  , East ,13, 95000, Available
+Biratnagar, West, 16, 250000,Available
+Bhaktapur, North, 7, 100000, Available
